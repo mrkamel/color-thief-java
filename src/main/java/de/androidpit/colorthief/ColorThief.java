@@ -354,5 +354,4 @@ public class ColorThief
 
         return Arrays.copyOfRange(res, 0, numUsedPixels);
     }
-
 }
